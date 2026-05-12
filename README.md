@@ -1,0 +1,1 @@
+This application supports workday calculation based on configurable working hours and holidays. Users can define working hours (e.g., 9:00 AM – 5:00 PM), with the daily work duration derived from the start and end times. Holidays can be configured as either single-occurrence or recurring events.
